@@ -2,7 +2,7 @@
 
 Diese inoffizielle Custom Component für Home Assistant ermöglicht es dir, deine Hetzner Cloud Server und Storage Boxen direkt in deinem Smart Home Dashboard zu überwachen. 
 
-Die Integration nutzt die offizielle Hetzner REST-API und wird vollständig über die Home Assistant Benutzeroberfläche (Config Flow) eingerichtet.
+Die Integration nutzt die offizielle Hetzner API und wird vollständig über die Home Assistant Benutzeroberfläche (Config Flow) eingerichtet.
 
 ## Funktionen
 
