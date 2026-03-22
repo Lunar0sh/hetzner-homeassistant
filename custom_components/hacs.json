@@ -1,6 +1,0 @@
-{
-  "name": "Hetzner Cloud & Storage",
-  "render_readme": true,
-  "filename": "hetzner_custom",
-  "iot_class": "cloud_polling"
-}
