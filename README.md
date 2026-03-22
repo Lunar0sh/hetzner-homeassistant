@@ -39,7 +39,7 @@ Da diese Integration aktuell noch nicht im Standard-HACS-Store gelistet ist, kan
 
 1. Öffne **HACS** in deinem Home Assistant.
 2. Klicke oben rechts auf das Drei-Punkte-Menü und wähle **Benutzerdefinierte Repositories**.
-3. Füge die URL dieses Repositories ein: `https://github.com/DEIN_GITHUB_NAME/hetzner-homeassistant`
+3. Füge die URL dieses Repositories ein: `https://github.com/lunar0sh/hetzner-homeassistant`
 4. Wähle als Kategorie **Integration** und klicke auf Hinzufügen.
 5. Suche in HACS nach "Hetzner Cloud & Storage" und klicke auf Herunterladen.
 6. Starte Home Assistant neu.
@@ -70,3 +70,4 @@ Sollten die Sensoren nicht aktualisiert werden oder Fehler im Log auftauchen:
 ## Lizenz
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Es steht in keiner offiziellen Verbindung zur Hetzner Online GmbH.
+Dieses Projekt wurde mit der Hilfe von KI erstellt.
