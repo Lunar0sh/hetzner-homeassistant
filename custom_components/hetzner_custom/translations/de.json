@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Hetzner Infrastruktur",
+        "description": "Bitte gib deinen Hetzner API-Token ein.",
+        "data": {
+          "api_token": "API Token"
+        }
+      }
+    },
+    "error": {
+      "invalid_token": "Der Token ist ungültig oder hat keine Rechte.",
+      "cannot_connect": "Verbindung zu Hetzner fehlgeschlagen."
+    },
+    "abort": {
+      "already_configured": "Hetzner ist bereits konfiguriert."
+    }
+  }
+}

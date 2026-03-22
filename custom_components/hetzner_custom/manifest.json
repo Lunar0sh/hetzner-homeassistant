@@ -1,0 +1,12 @@
+{
+  "domain": "hetzner_custom",
+  "name": "Hetzner Cloud & Storage",
+  "documentation": "https://github.com/Lunar0sh/hetzner-homeassistant",
+  "issue_tracker": "https://github.com/Lunar0sh/hetzner-homeassistant/issues",
+  "dependencies": [],
+  "codeowners": ["@Lunar"],
+  "requirements": [],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}

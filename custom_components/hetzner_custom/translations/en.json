@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Hetzner Infrastructure",
+        "description": "Please enter your Hetzner API token.",
+        "data": {
+          "api_token": "API Token"
+        }
+      }
+    },
+    "error": {
+      "invalid_token": "The token is invalid or lacks permissions.",
+      "cannot_connect": "Failed to connect to Hetzner."
+    },
+    "abort": {
+      "already_configured": "Hetzner is already configured."
+    }
+  }
+}
