@@ -1,4 +1,7 @@
 # Hetzner Cloud & Storage Integration für Home Assistant
+<p align="center">
+  <img src="images/hetzner-logo.svg" alt="Hetzner Logo" width="250">
+</p>
 
 Diese inoffizielle Custom Component für Home Assistant ermöglicht es dir, deine Hetzner Cloud Server und Storage Boxen direkt in deinem Smart Home Dashboard zu überwachen. 
 
